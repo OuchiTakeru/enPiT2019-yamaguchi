@@ -9,5 +9,5 @@ OuchiTakeruです！
 1. 肉<br>
 2. メロン<br>
 3. 寿司<br>
-4.カレー   
+4.おにぎり   
 </details>
